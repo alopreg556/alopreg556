@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mo7aqm5y-gtwkt5p5y">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-rc1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc/4.0/">
+<title>Me expreso</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/form/form.js"></script><link rel="stylesheet" href="../idevices/form/form.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mo7aqm5y-gtwkt5p5y" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node daddy">Me expreso, me emociono, me divierto</a>
+<ul class="other-section">
+<li> <a href="../html/temporalidad.html" class="no-ch">Temporalidad</a>
+</li>
+<li> <a href="../html/justificacion.html" class="no-ch">Justificación</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/consejos-de-seguridad.html" class="no-ch">Consejos de seguridad</a>
+</li>
+<li> <a href="../html/recursos.html" class="no-ch">Recursos</a>
+</li>
+<li> <a href="../html/tareas-y-criterios-de-evaluacion.html" class="no-ch">Tareas y criterios de evaluación</a>
+</li>
+<li> <a href="../html/que-es-una-familia.html" class="daddy">¿Qué es una familia?</a>
+<ul class="other-section">
+<li> <a href="../html/familias-imperfectas.html" class="no-ch">Familias imperfectas</a>
+</li>
+</ul>
+</li>
+<li class="active"> <a href="../html/me-expreso.html" class="active daddy">Me expreso</a>
+<ul class="other-section">
+<li> <a href="../html/si-esto-me-pasara.html" class="no-ch">Si esto me pasara</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/me-emociono.html" class="no-ch">Me emociono</a>
+</li>
+<li> <a href="../html/producto-final-nuestro-contrato-.html" class="no-ch">Producto final: Nuestro contrato </a>
+</li>
+<li> <a href="../html/instrumentos-de-evaluacion.html" class="no-ch">Instrumentos de evaluación</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">Créditos</a>
+</li>
+</ul>
+</nav><main id="page-mo7aqm5y-gtwkt5p5y" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">ME EXPRESO, ME EMOCIONO, ME DIVIERTO</p>
+<p class="package-subtitle">Nuestra clase: una familia</p></div>
+<div class="page-header"><h1 class="page-title">Me expreso</h1></div>
+</header><div id="page-content-page-mo7aqm5y-gtwkt5p5y" class="page-content">
+<article id="block-1775575487950-vj7urga4b" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">¿Cómo me siento hoy?</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1775575487945-qwxpygku5" class="idevice_node form" data-idevice-path="../idevices/form/" data-idevice-type="form" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1775575487945-qwxpygku5&quot;,&quot;evaluation&quot;:false,&quot;evaluationID&quot;:&quot;167b5ec0-b0cb-4290-9cb2-863d75339063&quot;,&quot;repeatActivity&quot;:true,&quot;isScorm&quot;:0,&quot;textButtonScorm&quot;:&quot;Guardar la puntuación&quot;,&quot;weighted&quot;:100,&quot;msgs&quot;:{&quot;msgScoreScorm&quot;:&quot;La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.&quot;,&quot;msgYouScore&quot;:&quot;Tu puntuación es&quot;,&quot;msgScore&quot;:&quot;Puntuación&quot;,&quot;msgWeight&quot;:&quot;Peso&quot;,&quot;msgYouLastScore&quot;:&quot;La última puntuación guardada es&quot;,&quot;msgOnlySaveScore&quot;:&quot;¡Solo puede guardar la puntuación una vez!&quot;,&quot;msgOnlySave&quot;:&quot;Solo puede guardar una vez&quot;,&quot;msgOnlySaveAuto&quot;:&quot;Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.&quot;,&quot;msgSaveAuto&quot;:&quot;Su puntuación se guardará automáticamente después de cada pregunta.&quot;,&quot;msgSeveralScore&quot;:&quot;Puede guardar la puntuación tantas veces como quiera&quot;,&quot;msgPlaySeveralTimes&quot;:&quot;Puede realizar esta actividad cuantas veces quiera&quot;,&quot;msgActityComply&quot;:&quot;Ya ha realizado esta actividad.&quot;,&quot;msgUncompletedActivity&quot;:&quot;Actividad no completada&quot;,&quot;msgSuccessfulActivity&quot;:&quot;Actividad superada. Puntuación: %s&quot;,&quot;msgUnsuccessfulActivity&quot;:&quot;Actividad no superada. Puntuación: %s&quot;,&quot;msgTypeGame&quot;:&quot;Formulario&quot;,&quot;msgStartGame&quot;:&quot;Pulsa aquí para empezar&quot;,&quot;msgTime&quot;:&quot;Tiempo por pregunta&quot;,&quot;msgSaveScore&quot;:&quot;Guardar la puntuación&quot;,&quot;msgResult&quot;:&quot;Resultado&quot;,&quot;msgCheck&quot;:&quot;Comprobar&quot;,&quot;msgReset&quot;:&quot;Reiniciar&quot;,&quot;msgShowAnswers&quot;:&quot;Mostrar respuestas&quot;,&quot;msgTestResultPass&quot;:&quot;¡Felicidades! Has pasado la prueba&quot;,&quot;msgTestResultNotPass&quot;:&quot;Lo siento. Has fallado la prueba&quot;,&quot;msgTrueFalseHelp&quot;:&quot;Di si la afirmación es verdadera o falsa&quot;,&quot;msgDropdownHelp&quot;:&quot;Elige la respuesta correcta entre las opciones propuestas&quot;,&quot;msgFillHelp&quot;:&quot;Rellena los espacios en blanco con la palabra apropiada&quot;,&quot;msgSingleSelectionHelp&quot;:&quot;Opción múltiple con solo una respuesta correcta&quot;,&quot;msgMultipleSelectionHelp&quot;:&quot;Opción múltiple con varias respuestas correctas&quot;,&quot;msgPlayStart&quot;:&quot;Pulsa aquí para empezar&quot;,&quot;msgTrue&quot;:&quot;Verdadero&quot;,&quot;msgFalse&quot;:&quot;Falso&quot;,&quot;msgNext&quot;:&quot;Siguiente&quot;,&quot;msgPrevious&quot;:&quot;Anterior&quot;,&quot;msgSuggestion&quot;:&quot;Sugerencia&quot;},&quot;id&quot;:&quot;idevice-1775575487945-qwxpygku5&quot;,&quot;questionsRandom&quot;:false,&quot;percentageQuestions&quot;:&quot;100&quot;,&quot;time&quot;:&quot;0&quot;,&quot;eXeFormInstructions&quot;:&quot;&quot;,&quot;questionsData&quot;:[{&quot;id&quot;:&quot;1775575551723-A82FU&quot;,&quot;activityType&quot;:&quot;selection&quot;,&quot;baseText&quot;:&quot;&lt;p&gt;¿Cómo me siento?&lt;/p&gt;&quot;,&quot;feedbackRight&quot;:&quot;&quot;,&quot;feedbackWrong&quot;:&quot;&quot;,&quot;suggestion&quot;:&quot;&quot;,&quot;wrongAnswersValue&quot;:&quot;&quot;,&quot;selectionType&quot;:&quot;multiple&quot;,&quot;answers&quot;:[{&quot;0&quot;:true,&quot;1&quot;:&quot;Feliz&quot;},{&quot;0&quot;:true,&quot;1&quot;:&quot;Triste&quot;},{&quot;0&quot;:true,&quot;1&quot;:&quot;Enfadado/a&quot;},{&quot;0&quot;:true,&quot;1&quot;:&quot;Con miedo&quot;}],&quot;answer&quot;:&quot;1&quot;,&quot;capitalization&quot;:false,&quot;strict&quot;:false,&quot;order&quot;:0,&quot;customScore&quot;:1,&quot;time&quot;:0}],&quot;passRate&quot;:5,&quot;addBtnAnswers&quot;:true,&quot;eXeIdeviceTextAfter&quot;:&quot;&lt;p&gt;Recuerda que siempre que lo necesites puedes pedir un abrazo. &lt;/p&gt;&quot;,&quot;showSlider&quot;:false}" data-idevice-template="form.html">
+<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775575487945-qwxpygku5" data-evaluationb="false" data-evaluationid="167b5ec0-b0cb-4290-9cb2-863d75339063"></div>
+            <div id="frmMainContainer-idevice-1775575487945-qwxpygku5" class="form-IDevice" data-id="idevice-1775575487945-qwxpygku5">
+                <div class="form-Data js-hidden">{}</div>
+                
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775575487945-qwxpygku5">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775575487945-qwxpygku5" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775575487945-qwxpygku5" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775575487945-qwxpygku5" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775575487945-qwxpygku5" > </div>
+                        <div id="frmCover-idevice-1775575487945-qwxpygku5" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775575487945-qwxpygku5" class="form-results-container inline">
+                        <div id="form-score-idevice-1775575487945-qwxpygku5" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775575487945-qwxpygku5" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775575487945-qwxpygku5" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775575487945-qwxpygku5" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775575487945-qwxpygku5" type="button" value="Reiniciar"
+                            data-id="idevice-1775575487945-qwxpygku5" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1775575487945-qwxpygku5" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1775575487945-qwxpygku5" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775575487945-qwxpygku5" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"><p>Recuerda que siempre que lo necesites puedes pedir un abrazo. </p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>
+</div>
+</div>
+</article><article id="block-1776178514676-g2bl8tl63" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Sesión 1</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1776178514674-ph4beaccl" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1776178514674-ph4beaccl&quot;}">
+<div class="exe-text-template">
+    <p><img src="../content/resources/7.jpg" width="1366" height="768" alt="" /><br /></p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/familias-imperfectas.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/si-esto-me-pasara.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-nc"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-nc/4.0/" class="license">creative commons: attribution - non commercial 4.0 (BY-NC)</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>

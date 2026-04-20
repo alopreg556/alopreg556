@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mo7aqm60-wtu8kr0g7">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-rc1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc/4.0/">
+<title>Si esto me pasara</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mo7aqm60-wtu8kr0g7" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li> <a href="../index.html" class="main-node daddy">Me expreso, me emociono, me divierto</a>
+<ul class="other-section">
+<li> <a href="../html/temporalidad.html" class="no-ch">Temporalidad</a>
+</li>
+<li> <a href="../html/justificacion.html" class="no-ch">Justificación</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/consejos-de-seguridad.html" class="no-ch">Consejos de seguridad</a>
+</li>
+<li> <a href="../html/recursos.html" class="no-ch">Recursos</a>
+</li>
+<li> <a href="../html/tareas-y-criterios-de-evaluacion.html" class="no-ch">Tareas y criterios de evaluación</a>
+</li>
+<li> <a href="../html/que-es-una-familia.html" class="daddy">¿Qué es una familia?</a>
+<ul class="other-section">
+<li> <a href="../html/familias-imperfectas.html" class="no-ch">Familias imperfectas</a>
+</li>
+</ul>
+</li>
+<li class="current-page-parent"> <a href="../html/me-expreso.html" class="daddy">Me expreso</a>
+<ul class="other-section">
+<li class="active"> <a href="../html/si-esto-me-pasara.html" class="active no-ch">Si esto me pasara</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/me-emociono.html" class="no-ch">Me emociono</a>
+</li>
+<li> <a href="../html/producto-final-nuestro-contrato-.html" class="no-ch">Producto final: Nuestro contrato </a>
+</li>
+<li> <a href="../html/instrumentos-de-evaluacion.html" class="no-ch">Instrumentos de evaluación</a>
+</li>
+<li> <a href="../html/creditos.html" class="no-ch">Créditos</a>
+</li>
+</ul>
+</nav><main id="page-mo7aqm60-wtu8kr0g7" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">ME EXPRESO, ME EMOCIONO, ME DIVIERTO</p>
+<p class="package-subtitle">Nuestra clase: una familia</p></div>
+<div class="page-header"><h1 class="page-title">Si esto me pasara</h1></div>
+</header><div id="page-content-page-mo7aqm60-wtu8kr0g7" class="page-content">
+<article id="block-1775575758992-el4kmex0o" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">¡Vamos a abrir Google Drive!</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1775575758986-cnmpf7y3q" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1775575758986-cnmpf7y3q&quot;}">
+<div class="exe-text-template">
+    <p><img src="../content/resources/images.png" width="237" height="213" alt="" /><br /></p>
+<div><br /></div>
+<div>En grupos de 5, deberéis abrir un documento en Google Drive y explicar cómo os sentiríais si os pasaran algunas de estas cosas... </div>
+<div><br /></div>
+<div>¡ESPERAD! La seño os dará las tarjetas que tendréis que utilizar...</div>
+<div><br /></div>
+<div><img src="../content/resources/1.png" width="1366" height="966" alt="" /><br /></div>
+<div><img src="../content/resources/2.png" width="1366" height="966" alt="" /><br /></div>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/me-expreso.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/me-emociono.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-nc"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-nc/4.0/" class="license">creative commons: attribution - non commercial 4.0 (BY-NC)</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
